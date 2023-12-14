@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:shared_pref/src/services/shared_pref_service.dart';
+import 'package:shared_pref/src/ui/pages/hive_page.dart';
 
-void main() {
+void main() async {
   runApp(const MyApp());
 }
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const HiveTest(),
     );
   }
 }

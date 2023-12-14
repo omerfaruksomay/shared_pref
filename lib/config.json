@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "user-name": "pacaris",
+            "password": 131231412,
+            "e-mail": "pacaris@outlook.com"
+        },
+        {
+            "id": 2,
+            "user-name": "pacaris1",
+            "password": 131231412,
+            "e-mail": "pacari4s@outlook.com"
+        },
+        {
+            "id": 3,
+            "user-name": "pacaris2",
+            "password": 131231412,
+            "e-mail": "pacar1is@outlook.com"
+        },
+        {
+            "id": 4,
+            "user-name": "pacaris3",
+            "password": 131231412,
+            "e-mail": "pacari2s@outlook.com"
+        }
+    ]
+}
